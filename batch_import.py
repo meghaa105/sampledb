@@ -96,7 +96,7 @@ def main(instance_id, database_id):
   )
 
   # Insert data.
-  insert_data(database, stories_file, 'stories', s_columnnames)
+  insert_data(database, stories_file, 'nutritional_values', s_columnnames)
 
 
 if __name__ == '__main__':
