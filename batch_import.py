@@ -92,7 +92,7 @@ def main(instance_id, database_id):
       'fat',
       'ash',
       'caffeine',
-      'water,
+      'water',
   )
 
   # Insert data.
