@@ -75,7 +75,7 @@ def main(instance_id, database_id):
   create_op.result()  # Wait for operation to complete.
 
   # File paths.
-  stories_file = 'nutrition.csv'
+  stories_file = 'nutrition1.csv'
 
   # Sets the Column names.
   s_columnnames = (
